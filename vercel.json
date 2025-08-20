@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/pw", "destination": "/pw.html" },
+    { "source": "/adda247", "destination": "/adda247.html" },
+    { "source": "/unacademy", "destination": "/unacademy.html" }
+  ]
+}
